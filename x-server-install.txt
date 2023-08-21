@@ -11,4 +11,3 @@ x11-apps/xrandr
 x11-drivers/xf86-video-vboxvideo
 x11-misc/unclutter-xfixes
 x11-misc/xclip
-x11-misc/pcmanfm
