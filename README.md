@@ -1,4 +1,4 @@
-# gentoo-minimal-x
+# gentoo-minimal
 
 Little script that install Minimal X Server configuration on gentoo systems.
 
