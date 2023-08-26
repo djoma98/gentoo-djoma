@@ -1,5 +1,7 @@
 # gentoo-minimal
 
+Minimal Kernel config for Dell Vostro 3525
+
 Little script that install Minimal X Server configuration on gentoo systems.
 
 <b>TO USE:</b>
