@@ -1,3 +1,3 @@
 #!/bin/bash
-DEPLIST="`sed -e 's/#.*$//' -e '/^$/d' x-server-install.txt | tr '\n' ' '`"
+DEPLIST="`sed -e 's/#.*$//' -e '/^$/d' dependencies.txt | tr '\n' ' '`"
 emerge --ask --autounmask-continue --verbose $DEPLIST
